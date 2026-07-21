@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0349_000-X.yaml, hash: 'sha256:782f1ceb7cf110334bda906125f785ded1298277144c6f2000e88fa2a527101b'}
+  - {seq: 0, filename: KR6i0349_000-X.yaml, hash: 'sha256:4abc4dc862463ba51d0630e2def3140ce1e4fcb249adfa499faa56e944deae26'}
   - {seq: 1, filename: KR6i0349_001-X.yaml, hash: 'sha256:cdc9ae1fb28b571baccaeb0718caaf035d54214219caec66c4d94fd94b59db76'}
   - {seq: 2, filename: KR6i0349_002-X.yaml, hash: 'sha256:39365227efd8b4bbaff7f81374baf98a6f52957bdadbad5c2490eab8a5846ecc'}
   - {seq: 3, filename: KR6i0349_003-X.yaml, hash: 'sha256:e833dfccb668a3510e8365e0c0d485e04aefb15203ed630ebe70dace6bb30ae9'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 7, filename: KR6i0349_007-X.yaml, hash: 'sha256:7c94d91f60db0b329f655d6f7329e6b01b2268d6e0579903e4403c0ea2358b15'}
   - {seq: 8, filename: KR6i0349_008-X.yaml, hash: 'sha256:02dd9583728748f2e8b09040798731195ee3fc81111476d1b495a673c3a5daee'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0349_000-X.markers.yaml, hash: 'sha256:012c16a4817dfb8354556a6abf7cc544d125864d42f432c63f9feebdadf7edf4'}
+  - {seq: 0, role: markers, filename: assets/KR6i0349_000-X.markers.yaml, hash: 'sha256:64dda7ea48697d980adeaa6c564078553db11da89ee81e1e6a14d197d951944c'}
   - {seq: 1, role: markers, filename: assets/KR6i0349_001-X.markers.yaml, hash: 'sha256:17549efd4532a04b07306a2d49aab8cff3f315259270722430ba633af935972a'}
   - {seq: 2, role: markers, filename: assets/KR6i0349_002-X.markers.yaml, hash: 'sha256:b5a9e19bb8ba70f0f177391c43848ba501b399c9a65c0c3642cccec607ba1ac0'}
   - {seq: 3, role: markers, filename: assets/KR6i0349_003-X.markers.yaml, hash: 'sha256:b4fa72b2d3f18d80938b7d0f6bda6abb5a8ab13ec157d395d78240f55410e950'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0349_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 332-A 楞伽經參訂疏序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0349_X_000-mulu-2
     span:
-    - front
+    - body
     - 549
     - 549
   label: No. 332-B 楞伽阿䟦多羅寶經叅訂疏敘
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0349_X_000-mulu-3
     span:
-    - front
+    - body
     - 1139
     - 1139
   label: No. 332-C 楞伽經參訂疏序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0349_X_000-mulu-4
     span:
-    - front
+    - body
     - 1650
     - 1650
   label: No. 332-D 楞伽參訂疏敘
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0349_X_000-mulu-5
     span:
-    - front
+    - body
     - 2911
     - 2911
   label: 疏經凡例
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0349_X_000-mulu-6
     span:
-    - front
+    - body
     - 3286
     - 3286
   label: 所引經論目錄
@@ -249,4 +249,4 @@ table_of_contents:
   label: No. 332-E 楞伽經參訂疏後䟦
   type: mulu
   level: 1
-hash: sha256:c5c9628c9e0f712899d1840b7bf5484d2f6f08531c70074e4dec8d19a370ffe8
+hash: sha256:61f03505b603a48cbaadd7c48ff8ee0a7b40a671b462376b1a46e44c1149919e
